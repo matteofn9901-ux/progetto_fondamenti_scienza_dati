@@ -1,0 +1,2 @@
+# progetto_fondamenti_scienza_dati
+Progetto bikesharing
